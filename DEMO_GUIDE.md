@@ -61,6 +61,15 @@ This guide demonstrates the 4 key modes of GitHub Copilot: **Ask**, **Plan**, **
 
 ---
 
+## 5. Self-Paced Learning Exercises
+For a deeper dive into specific features, explore the `exercises/` folder:
+- **Regex & Data**: [03_regex_and_data_transform.py](exercises/03_regex_and_data_transform.py)
+- **Refactoring**: [04_refactoring_and_modernization.py](exercises/04_refactoring_and_modernization.py)
+- **Debugging**: [05_debugging_with_fix.py](exercises/05_debugging_with_fix.py)
+- **CLI/Terminal**: [06_terminal_and_cli.py](exercises/06_terminal_and_cli.py)
+
+---
+
 ## Summary
 - **Ask**: "What does this complex math do?" (`analytics.py`)
 - **Plan**: "How do I add an alert system?" (Architecture)
