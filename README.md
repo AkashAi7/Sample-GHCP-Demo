@@ -26,6 +26,7 @@ Explore the `exercises/` directory to master GitHub Copilot through hands-on pra
 4. [04_refactoring_and_modernization.py](exercises/04_refactoring_and_modernization.py): Refactor loops and add type hints instantly.
 5. [05_debugging_with_fix.py](exercises/05_debugging_with_fix.py): Fix syntax and logical bugs using `/fix`.
 6. [06_terminal_and_cli.py](exercises/06_terminal_and_cli.py): Leverage `@terminal` for command-line efficiency.
+7. [07_advanced_configuration.py](exercises/07_advanced_configuration.py): **Advanced!** Explore Custom Instructions and Custom Agents.
 
 ## Usage
 
