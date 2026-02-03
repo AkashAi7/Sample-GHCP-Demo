@@ -22,12 +22,16 @@ This repository provides a **structured learning path** covering:
 
 ```
 📦 GitHub Copilot Learning Hub
-├── 📁 exercises/          # Progressive hands-on tutorials (9 modules)
-├── 📁 hackathon/          # Skill-based coding challenges
-├── 📁 models/             # Sample Python data models
-├── 📁 services/           # Business logic examples
-├── 📁 data/               # Sample datasets
-├── 📄 DEMO_GUIDE.md       # Live demo scenarios
+├── 📁 src/                # 🔧 YOUR WORKING CODE (modify this!)
+│   ├── models/            #    Data models (Device, Reading)
+│   ├── services/          #    Business logic (Analytics, Data Ingestion)
+│   ├── data/              #    Sample CSV files
+│   └── main.py            #    Application entry point
+│
+├── 📁 exercises/          # 📖 Learning modules (9 exercises)
+├── 📁 hackathon/          # 🏆 Coding challenges (9 challenges)
+├── 📁 docs/               # 📄 Documentation & guides
+├── 📁 mcp/                # 🔌 MCP server examples
 └── 📄 README.md           # You are here!
 ```
 
@@ -105,7 +109,7 @@ Custom agents, MCP, and production-ready solutions.
    ```
 
 ### **Option 2: Live Demo**
-Follow the [DEMO_GUIDE.md](DEMO_GUIDE.md) to see **Ask, Plan, Edit, and Agent** modes in action.
+Follow the [DEMO_GUIDE.md](docs/DEMO_GUIDE.md) to see **Ask, Plan, Edit, and Agent** modes in action.
 
 ### **Option 3: Jump to Challenges**
 Ready to test your skills? Navigate to `hackathon/` and pick a challenge matching your level.
@@ -120,8 +124,16 @@ All exercises and challenges use a **Smart Home Energy Monitor** application as 
 - **Tech Stack**: Python, CSV data processing, type hints
 - **Features**: Data ingestion, efficiency scoring, cost projections
 - **Architecture**: Models + Services pattern (following repository custom instructions)
+- **Location**: All working code is in the `src/` directory
 
 This realistic codebase provides diverse scenarios for practicing Copilot features.
+
+### 📂 Working vs Learning Directories
+
+- **`src/`** - YOUR workspace! Modify, experiment, break things here
+- **`exercises/`** - Read-only learning materials
+- **`hackathon/`** - Read-only challenge instructions
+- **`docs/`** - Read-only documentation
 
 ---
 
