@@ -28,7 +28,7 @@ This repository provides a **structured learning path** covering:
 │   ├── data/              #    Sample CSV files
 │   └── main.py            #    Application entry point
 │
-├── 📁 exercises/          # 📖 Learning modules (9 exercises)
+├── 📁 exercises/          # 📖 Learning modules (10 exercises)
 ├── 📁 hackathon/          # 🏆 Coding challenges (9 challenges)
 ├── 📁 docs/               # 📄 Documentation & guides
 ├── 📁 mcp/                # 🔌 MCP server examples
@@ -65,6 +65,13 @@ Build powerful integrations and custom tooling.
 |----------|-------|----------------|
 | [08_model_context_protocol.py](exercises/08_model_context_protocol.py) | 🔌 MCP | Connect Copilot to databases, APIs, and custom tools |
 | [09_building_custom_agents.py](exercises/09_building_custom_agents.py) | 🤖 Custom agents | Create specialized AI assistants for your domain |
+
+### **Phase 4: End-to-End Delivery** (Exercise 10)
+Apply Copilot across the full software development lifecycle from planning to release.
+
+| Exercise | Skill | What You'll Do |
+|----------|-------|----------------|
+| [10_end_to_end_sdlc_lab.py](exercises/10_end_to_end_sdlc_lab.py) | 🧭 End-to-end SDLC | Run a complete lab covering discovery, implementation, validation, and release readiness |
 
 ---
 
