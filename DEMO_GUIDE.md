@@ -79,6 +79,9 @@ For a deeper dive into specific features, explore the `exercises/` folder:
 - [08_model_context_protocol.py](exercises/08_model_context_protocol.py) - Connect Copilot to databases and APIs
 - [09_building_custom_agents.py](exercises/09_building_custom_agents.py) - Create specialized AI assistants
 
+**Capstone Lab (Exercise 10)**:
+- [10_end_to_end_sdlc_lab.py](exercises/10_end_to_end_sdlc_lab.py) - Practice an end-to-end SDLC workflow with Copilot
+
 ---
 
 ## 6. 🏆 Hackathon Challenges
